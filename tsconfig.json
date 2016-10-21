@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2015",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "sourceRoot": ".\\src",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "noImplicitThis": true,
+        "outDir": ".\\dist"
+    }
+}
